@@ -2,8 +2,7 @@
   "name": "vue-foundation",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "张裴裴 <zhangpp@idevent.cn>",
-  "private": true,
+  "author": "idevent <zhangpeipei@idevent.cn>",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
